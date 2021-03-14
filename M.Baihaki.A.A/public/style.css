@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    background-color: #ebe9e9
+  }
+  #background{
+    margin-top:-120px;
+    background:url(img/eye.jpg) no-repeat;
+    background-size:cover;
+    padding-top:111px;
+    height:638px;
+    max-height:1112px;
+  }
+  
+  #background .jumbotron{
+    background:none;
+    margin-left:137px;
+    max-width:1000px;
+    margin-top:22px;
+  }
+  
+  #background .jumbotron h1{
+    font-family:nexa;
+    color:white;
+    margin-bottom:-12px;
+  }
+  
+  #background .jumbotron p{
+    font-family:raleway;
+    color:white;
+    margin-bottom:-12px;
+    margin-top:27px;
+    padding-right:307px;
+  }
+  
+  #home{
+    text-align: center;
+  }
+  
+  #home .container h1{
+    margin:36px;
+  }
+  
+  #home .container .row{
+    margin:-3px;
+  }
+  
+  #home .isi .container.atas{
+    background-color:#f9f8f8;
+    margin-top:-85px;
+    padding-bottom:37px;
+  }
+  
+  .container.bawah{
+    text-align: center;
+  }
+  
+  #news{
+    margin-top: 31px;
+    background-color: #f9f8f8;
+    padding-top: 43px;
+    padding-bottom: 25px;
+  }
+  
+  #photography .container h1{
+    text-align: center;
+    font-family: raleway;
+    margin-bottom: 38px;
+  }
+ 
+  #about{
+    background-color: #102128;
+    margin-top: 79px;
+    color: white;
+  }
+  
+  #about .container{
+    width: 100%;
+    padding: 55px;
+  }
+
+  #kaki{
+    color: rgb(40,78,94);
+    background-color: #0f1517;
+  }
+  
